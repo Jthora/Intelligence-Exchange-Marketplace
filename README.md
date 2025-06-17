@@ -23,7 +23,7 @@ The Intelligence Exchange Marketplace (IEM) is an open, decentralized platform f
 - **Serverless:** All logic is client-side or on-chain; no backend or centralized server is required.
 - **Wallet-Authenticated:** All actions require Solana wallet signatures for authentication and access control.
 - **On-Chain Data:** Intelligence reports, overlays, and market data are stored and validated on Solana.
-- **Open API:** All data and actions are accessible via open, documented APIs using `@solana/web3.js`.
+- **Open API:** All data and actions are accessible.
 
 ### 4. Key Features
 - **Intel Report NFTs:** Mint, transfer, and verify provenance of intelligence reports as NFTs.
