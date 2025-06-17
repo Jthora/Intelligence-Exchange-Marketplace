@@ -38,9 +38,6 @@ The Intelligence Exchange Marketplace (IEM) is an open, decentralized platform f
 - All smart contracts, APIs, and UI logic are documented and reference relevant artifacts.
 - Security audits and code health reports are maintained as part of the artifact-driven workflow.
 
-### 6. Defensive Publication Statement
-This document and the associated codebase serve as a defensive publication, placing the described methods, systems, and designs into the public domain under the terms of the Creative Commons Attribution-ShareAlike 4.0 International License. This is intended to prevent the patenting of these ideas by third parties and to ensure their continued availability for the global open source and research community.
-
 ---
 
 *This defensive publication is part of the Starcom App project and is intended to foster open innovation, transparency, and global collaboration in the field of decentralized intelligence exchange.*
