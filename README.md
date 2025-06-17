@@ -9,11 +9,6 @@ An Open Source Creative Commons Marketplace for exchanging intel reports
 [![DOI](https://zenodo.org/badge/1003297018.svg)](https://doi.org/10.5281/zenodo.15678820)
 
 
-
-**Date:** June 16, 2025  
-**Project:** Starcom App — Intelligence Exchange Marketplace (IEM)  
-**License:** CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International)
-
 ---
 
 ### 1. Introduction
